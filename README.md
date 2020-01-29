@@ -2,7 +2,7 @@
 
 I created this microservice in fulfillment of [freeCodeCamp](https://freecodecamp.org)'s Information Security and Quality Assurance Project [Metric-Imperial Converter](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice), using [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/), and [Chai](https://www.chaijs.com/). The above front end API test also uses [Bootstrap](https://getbootstrap.com/), [jQuery](https://jquery.com/), and [highlight.js](https://highlightjs.org/).
 
-You can read the unit and functional tests I wrote on [Github](https://github.com/tywmick/metricimpconverter/tree/glitch/tests) or [Glitch](https://glitch.com/edit/#!/ty-metricimpconverter?path=tests/1_unit-tests.js). To run the tests yourself, fork/remix this project, create a `.env` file containing `NODE_ENV="test"`, and look at the server console logs.
+You can read the unit and functional tests I wrote on [GitHub](https://github.com/tywmick/metricimpconverter/tree/glitch/tests) or [Glitch](https://glitch.com/edit/#!/ty-metricimpconverter?path=tests/1_unit-tests.js). To run the tests yourself, fork/remix this project, create a `.env` file containing `NODE_ENV="test"`, and look at the server console logs.
 
 This project fulfills the following user stories:
 
